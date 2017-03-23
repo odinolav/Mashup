@@ -8,6 +8,7 @@
   
   - Select zip code, then power supplier (i.e. St. Croix Electric)
     - Display background. Graphical power plants from user-inputted power supplier to show how a user's energy is produced.
+    - Perhaps display the power supplier's logo (first image from google images)
     - Scale power plants to ratio of total energy produced
     - Click on a power plant to see L/kWh or kg/kWh and other basic info
   
