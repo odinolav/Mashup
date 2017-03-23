@@ -20,7 +20,7 @@
     - 'speed-up' animation for the car that lasts longer.
       - simply move winner car forwards
       - maybe also fuel up animation on a certain timed scale
-    - See which is more efficient / expensive / clean based on your power provider
+    - See which is more efficient / expensive / clean based on your power provider (if your power provider uses mainly coal, electric cars can be pretty terrible for the environment, for example)
   
   
   
