@@ -1,5 +1,8 @@
 # Mashup
 
+# Gas vs. Electric Car Comparison
+
+### Summary: The user selects two cars--one that runs off gas and one that is electric or a hybrid--and api data is used to judge which is more efficient / economical given the user's inputted energy provider.
 
 ## Website Overview:
   
